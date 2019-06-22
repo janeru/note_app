@@ -1,0 +1,22 @@
+{
+    "messages": [
+        {
+            "owner": "Jane",
+            "title": "buy dinner",
+            "message": "dinner 100",
+            "id": 1
+        },
+        {
+            "owner": "Jane",
+            "title": "save money",
+            "message": "1000",
+            "id": 2
+        },
+        {
+            "owner": "Jane",
+            "title": "buy lunch",
+            "message": "50",
+            "id": 3
+        }
+    ]
+}
